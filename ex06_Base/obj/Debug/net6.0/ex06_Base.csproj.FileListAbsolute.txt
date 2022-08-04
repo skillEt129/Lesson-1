@@ -1,0 +1,15 @@
+C:\Users\SkillEt\Lesson-1\ex06_Base\bin\Debug\net6.0\ex06_Base.exe
+C:\Users\SkillEt\Lesson-1\ex06_Base\bin\Debug\net6.0\ex06_Base.deps.json
+C:\Users\SkillEt\Lesson-1\ex06_Base\bin\Debug\net6.0\ex06_Base.runtimeconfig.json
+C:\Users\SkillEt\Lesson-1\ex06_Base\bin\Debug\net6.0\ex06_Base.dll
+C:\Users\SkillEt\Lesson-1\ex06_Base\bin\Debug\net6.0\ex06_Base.pdb
+C:\Users\SkillEt\Lesson-1\ex06_Base\obj\Debug\net6.0\ex06_Base.csproj.AssemblyReference.cache
+C:\Users\SkillEt\Lesson-1\ex06_Base\obj\Debug\net6.0\ex06_Base.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SkillEt\Lesson-1\ex06_Base\obj\Debug\net6.0\ex06_Base.AssemblyInfoInputs.cache
+C:\Users\SkillEt\Lesson-1\ex06_Base\obj\Debug\net6.0\ex06_Base.AssemblyInfo.cs
+C:\Users\SkillEt\Lesson-1\ex06_Base\obj\Debug\net6.0\ex06_Base.csproj.CoreCompileInputs.cache
+C:\Users\SkillEt\Lesson-1\ex06_Base\obj\Debug\net6.0\ex06_Base.dll
+C:\Users\SkillEt\Lesson-1\ex06_Base\obj\Debug\net6.0\refint\ex06_Base.dll
+C:\Users\SkillEt\Lesson-1\ex06_Base\obj\Debug\net6.0\ex06_Base.pdb
+C:\Users\SkillEt\Lesson-1\ex06_Base\obj\Debug\net6.0\ex06_Base.genruntimeconfig.cache
+C:\Users\SkillEt\Lesson-1\ex06_Base\obj\Debug\net6.0\ref\ex06_Base.dll
