@@ -1,0 +1,30 @@
+C:\Users\SkillEt\Desktop\C#\ex05_if_else\bin\Debug\net6.0\ex05_if_else.exe
+C:\Users\SkillEt\Desktop\C#\ex05_if_else\bin\Debug\net6.0\ex05_if_else.deps.json
+C:\Users\SkillEt\Desktop\C#\ex05_if_else\bin\Debug\net6.0\ex05_if_else.runtimeconfig.json
+C:\Users\SkillEt\Desktop\C#\ex05_if_else\bin\Debug\net6.0\ex05_if_else.dll
+C:\Users\SkillEt\Desktop\C#\ex05_if_else\bin\Debug\net6.0\ex05_if_else.pdb
+C:\Users\SkillEt\Desktop\C#\ex05_if_else\obj\Debug\net6.0\ex05_if_else.csproj.AssemblyReference.cache
+C:\Users\SkillEt\Desktop\C#\ex05_if_else\obj\Debug\net6.0\ex05_if_else.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SkillEt\Desktop\C#\ex05_if_else\obj\Debug\net6.0\ex05_if_else.AssemblyInfoInputs.cache
+C:\Users\SkillEt\Desktop\C#\ex05_if_else\obj\Debug\net6.0\ex05_if_else.AssemblyInfo.cs
+C:\Users\SkillEt\Desktop\C#\ex05_if_else\obj\Debug\net6.0\ex05_if_else.csproj.CoreCompileInputs.cache
+C:\Users\SkillEt\Desktop\C#\ex05_if_else\obj\Debug\net6.0\ex05_if_else.dll
+C:\Users\SkillEt\Desktop\C#\ex05_if_else\obj\Debug\net6.0\refint\ex05_if_else.dll
+C:\Users\SkillEt\Desktop\C#\ex05_if_else\obj\Debug\net6.0\ex05_if_else.pdb
+C:\Users\SkillEt\Desktop\C#\ex05_if_else\obj\Debug\net6.0\ex05_if_else.genruntimeconfig.cache
+C:\Users\SkillEt\Desktop\C#\ex05_if_else\obj\Debug\net6.0\ref\ex05_if_else.dll
+C:\Users\SkillEt\Desktop\C#\Lesson 1\ex05_if_else\bin\Debug\net6.0\ex05_if_else.exe
+C:\Users\SkillEt\Desktop\C#\Lesson 1\ex05_if_else\bin\Debug\net6.0\ex05_if_else.deps.json
+C:\Users\SkillEt\Desktop\C#\Lesson 1\ex05_if_else\bin\Debug\net6.0\ex05_if_else.runtimeconfig.json
+C:\Users\SkillEt\Desktop\C#\Lesson 1\ex05_if_else\bin\Debug\net6.0\ex05_if_else.dll
+C:\Users\SkillEt\Desktop\C#\Lesson 1\ex05_if_else\bin\Debug\net6.0\ex05_if_else.pdb
+C:\Users\SkillEt\Desktop\C#\Lesson 1\ex05_if_else\obj\Debug\net6.0\ex05_if_else.csproj.AssemblyReference.cache
+C:\Users\SkillEt\Desktop\C#\Lesson 1\ex05_if_else\obj\Debug\net6.0\ex05_if_else.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SkillEt\Desktop\C#\Lesson 1\ex05_if_else\obj\Debug\net6.0\ex05_if_else.AssemblyInfoInputs.cache
+C:\Users\SkillEt\Desktop\C#\Lesson 1\ex05_if_else\obj\Debug\net6.0\ex05_if_else.AssemblyInfo.cs
+C:\Users\SkillEt\Desktop\C#\Lesson 1\ex05_if_else\obj\Debug\net6.0\ex05_if_else.csproj.CoreCompileInputs.cache
+C:\Users\SkillEt\Desktop\C#\Lesson 1\ex05_if_else\obj\Debug\net6.0\ex05_if_else.dll
+C:\Users\SkillEt\Desktop\C#\Lesson 1\ex05_if_else\obj\Debug\net6.0\refint\ex05_if_else.dll
+C:\Users\SkillEt\Desktop\C#\Lesson 1\ex05_if_else\obj\Debug\net6.0\ex05_if_else.pdb
+C:\Users\SkillEt\Desktop\C#\Lesson 1\ex05_if_else\obj\Debug\net6.0\ex05_if_else.genruntimeconfig.cache
+C:\Users\SkillEt\Desktop\C#\Lesson 1\ex05_if_else\obj\Debug\net6.0\ref\ex05_if_else.dll
